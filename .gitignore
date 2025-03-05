@@ -127,8 +127,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Packege manager cache
-/[Pp]ackages/
+
 
 # Asset store cache
 /[Aa]ssets/AssetStoreTools*
