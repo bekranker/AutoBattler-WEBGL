@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b657567e9614eb4b9cf1bef5ab8618, type: 3}
+  m_Name: Melee
+  m_EditorClassIdentifier: 
+  Health: 4
+  NPCSprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  NPCAttackType: {fileID: 11400000, guid: b54f05d0f5b1d480bb589d87edeb1eb5, type: 2}

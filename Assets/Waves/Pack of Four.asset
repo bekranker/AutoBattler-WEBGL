@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a470114f6735421898b2ec1b91265a6, type: 3}
+  m_Name: Pack of Four
+  m_EditorClassIdentifier: 
+  NPCPack:
+  - {fileID: 11400000, guid: f608c6baa6a6e4b1f9e9f5617c2fd2bb, type: 2}
+  - {fileID: 11400000, guid: f608c6baa6a6e4b1f9e9f5617c2fd2bb, type: 2}
+  - {fileID: 11400000, guid: cc7af64166f764adf801194ff1a5b70e, type: 2}
+  - {fileID: 11400000, guid: f608c6baa6a6e4b1f9e9f5617c2fd2bb, type: 2}
